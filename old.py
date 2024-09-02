@@ -1330,7 +1330,7 @@ def linex():
         
 def approval():
   uuid = str(os.geteuid())+"DS"+str(os.geteuid())
-  id = "AFG•OLD-"+"".join(uuid)
+  id = "GM•OLD-"+"".join(uuid)
   os.system('clear')
   print(logo) 
   print("\033[1;37m [\u001b[36m•\033[1;37m] You Need Approval To Use This Tool   \033[1;37m")
