@@ -1349,7 +1349,7 @@ def approval():
       
       input(' >> Click Enter To Send Your Key ')
       
-      os.system('xdg-open https://wa.me/qr/SI5U6B3VRKSDL1)
+      os.system('xdg-open https://wa.me/qr/SI5U6B3VRKSDL1')
       
       time.sleep(1)
       
